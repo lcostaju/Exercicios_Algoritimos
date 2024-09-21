@@ -5,12 +5,8 @@ public class App {
         double nota1 = s.nextDouble();
         double nota2 = s.nextDouble();
 
-        maiorNota(nota1, nota2);
+        System.out.println(maiorNota(nota1, nota2));
 
-        //
-        int idade = s.nextInt();
-        //
-        
         s.close();
 
     }
