@@ -12,7 +12,7 @@ public class App {
         }
 
         calculaMedia(ArrNotas);
-
+        s.close();
     }
 
     public static void calculaMedia(double nVetor[]){
