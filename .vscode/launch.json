@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "REC02SomarElementosVetor",
+            "request": "launch",
+            "mainClass": "Lista1.REC02SomarElementosVetor",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "Rec01GerarRepeticao",
+            "request": "launch",
+            "mainClass": "Lista1.Rec01GerarRepeticao",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "QuadradoPares",
+            "request": "launch",
+            "mainClass": "Lista1.QuadradoPares",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "SeisNumerosImpares",
+            "request": "launch",
+            "mainClass": "Lista1.SeisNumerosImpares",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciChamadas",
+            "request": "launch",
+            "mainClass": "Lista1.FibonacciChamadas",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
             "name": "Fibonacci",
             "request": "launch",
             "mainClass": "Fibonacci",
