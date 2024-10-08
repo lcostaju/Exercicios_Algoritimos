@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ContarDigitos",
+            "request": "launch",
+            "mainClass": "Lista1.ContarDigitos",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "SequenciaNumerosSoma",
+            "request": "launch",
+            "mainClass": "Lista1.SequenciaNumerosSoma",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
             "name": "REC02SomarElementosVetor",
             "request": "launch",
             "mainClass": "Lista1.REC02SomarElementosVetor",

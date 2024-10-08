@@ -9,7 +9,7 @@ public class REC02SomarElementosVetor {
         for (int i = 0; i < arr.length; i++) {
             arr[i] = s.nextInt();
         }
-
+        s.close();
         System.out.println(somaVet(arr, 0));
     }
 
