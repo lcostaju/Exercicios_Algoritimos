@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FibonacciFacil",
+            "request": "launch",
+            "mainClass": "Lista1.FibonacciFacil",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "Rec07SomaRecursivaDigitos",
+            "request": "launch",
+            "mainClass": "Prova1.Rec07SomaRecursivaDigitos",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "Rec05ImplementeFuncaoRecursiva",
+            "request": "launch",
+            "mainClass": "Prova1.Rec05ImplementeFuncaoRecursiva",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "Rec04SomaDeImpares",
+            "request": "launch",
+            "mainClass": "Prova1.Rec04SomaDeImpares",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "Rec06CorrigirFuncaoRecursivaFf",
+            "request": "launch",
+            "mainClass": "Prova1.Rec06CorrigirFuncaoRecursivaFf",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "FatorialDenovo",
+            "request": "launch",
+            "mainClass": "Lista1.FatorialDenovo",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "FatorialSimples",
+            "request": "launch",
+            "mainClass": "Lista1.FatorialSimples",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "PreenchimentoVetorII",
+            "request": "launch",
+            "mainClass": "Lista1.PreenchimentoVetorII",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "Bloobs",
+            "request": "launch",
+            "mainClass": "Lista1.Bloobs",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "Resto2",
+            "request": "launch",
+            "mainClass": "Lista1.Resto2",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
             "name": "ContarDigitos",
             "request": "launch",
             "mainClass": "Lista1.ContarDigitos",
