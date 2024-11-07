@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UmDoisTres",
+            "request": "launch",
+            "mainClass": "Lista2.UmDoisTres",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "EncaixaOuNao",
+            "request": "launch",
+            "mainClass": "Lista2.EncaixaOuNao",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "Combinador",
+            "request": "launch",
+            "mainClass": "Lista2.Combinador",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "SentencaDancante",
+            "request": "launch",
+            "mainClass": "Lista2.SentencaDancante",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "JogoMatematicoPaula",
+            "request": "launch",
+            "mainClass": "Lista2.JogoMatematicoPaula",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "Criptografia",
+            "request": "launch",
+            "mainClass": "Lista2.Criptografia",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
             "name": "FibonacciFacil",
             "request": "launch",
             "mainClass": "Lista1.FibonacciFacil",
