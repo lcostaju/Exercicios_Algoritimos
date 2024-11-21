@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "STR10",
+            "request": "launch",
+            "mainClass": "Lista3.STR10",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "STR09ImprimirIniciaisPalavras",
+            "request": "launch",
+            "mainClass": "Lista3.STR09ImprimirIniciaisPalavras",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "STR08ContarOcorrenciasPalavras",
+            "request": "launch",
+            "mainClass": "Lista3.STR08ContarOcorrenciasPalavras",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "STR07TratarData",
+            "request": "launch",
+            "mainClass": "Lista3.STR07TratarData",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "STR06ComparacaoString",
+            "request": "launch",
+            "mainClass": "Lista3.STR06ComparacaoString",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "STR05CapturarCaractereString",
+            "request": "launch",
+            "mainClass": "Lista3.STR05CapturarCaractereString",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "STR04ValidarTamanhoCPF",
+            "request": "launch",
+            "mainClass": "Lista3.STR04ValidarTamanhoCPF",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "STR03TamanhoString",
+            "request": "launch",
+            "mainClass": "Lista3.STR03TamanhoString",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "STR02CustoMoradia",
+            "request": "launch",
+            "mainClass": "Lista3.STR02CustoMoradia",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "STR01ComparacaodeString",
+            "request": "launch",
+            "mainClass": "Lista3.STR01ComparacaodeString",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
             "name": "UmDoisTres",
             "request": "launch",
             "mainClass": "Lista2.UmDoisTres",
