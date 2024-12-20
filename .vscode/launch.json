@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ValidadorCNPJ",
+            "request": "launch",
+            "mainClass": "Prova2.ValidadorCNPJ",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "STR20",
+            "request": "launch",
+            "mainClass": "Prova2.STR20",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "STR19",
+            "request": "launch",
+            "mainClass": "Prova2.STR19",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "STR18ContarOcorrenciaLetras",
+            "request": "launch",
+            "mainClass": "Prova2.STR18ContarOcorrenciaLetras",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
             "name": "STR14ValidarValor",
             "request": "launch",
             "mainClass": "Lista4.STR14ValidarValor",
