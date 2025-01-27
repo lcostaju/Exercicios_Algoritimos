@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ex07",
+            "request": "launch",
+            "mainClass": "ex07",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "ex06",
+            "request": "launch",
+            "mainClass": "ex06",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "ex05",
+            "request": "launch",
+            "mainClass": "ex05",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "ex04",
+            "request": "launch",
+            "mainClass": "ex04",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "ex03",
+            "request": "launch",
+            "mainClass": "ex03",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "ex02",
+            "request": "launch",
+            "mainClass": "ex02",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
             "name": "ValidadorCNPJ",
             "request": "launch",
             "mainClass": "Prova2.ValidadorCNPJ",
