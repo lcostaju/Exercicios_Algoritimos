@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ex02",
+            "request": "launch",
+            "mainClass": "Prova3.ex02",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
+            "name": "ex01",
+            "request": "launch",
+            "mainClass": "Prova3.ex01",
+            "projectName": "Exercicios_Algoritimos_658f827a"
+        },
+        {
+            "type": "java",
             "name": "ex07",
             "request": "launch",
             "mainClass": "ex07",
